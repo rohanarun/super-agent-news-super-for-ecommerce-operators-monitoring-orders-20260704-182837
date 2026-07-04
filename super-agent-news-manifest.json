@@ -1,0 +1,41 @@
+{
+  "citations": [
+    {
+      "source": "bleepingcomputer.com",
+      "title": "JadePuffer ransomware used AI agent to automate entire attack",
+      "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/"
+    },
+    {
+      "source": "sysdig.com",
+      "title": "JADEPUFFER: Agentic ransomware for automated database extortion",
+      "url": "https://webflow.sysdig.com/blog/jadepuffer-agentic-ransomware-for-automated-database-extortion"
+    },
+    {
+      "source": "blog.google",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "url": "https://blog.google/technology/ai/introducing-computer-use-in-gemini-3-5-flash/"
+    },
+    {
+      "source": "scworld.com",
+      "title": "Shell injection flaw found in 10 of 11 open-source AI agents",
+      "url": "https://www.scworld.com/news/shell-injection-flaw-found-in-10-of-11-open-source-ai-agents"
+    }
+  ],
+  "design_plan": "rng=42; AIDA=pass; hero_lines=2.4; bento_density=grid-auto-flow:dense; label_sweep=pass; button_contrast=AA+",
+  "generated_at": "2026-07-04T18:28:45.460938+00:00",
+  "headline": "Super for ecommerce operators monitoring orders, support, and repetitive admin",
+  "site_brief": {
+    "audience": "ecommerce operators monitoring orders, support, and repetitive admin",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "ecommerce operators monitoring orders, support, and repetitive admin AI assistant",
+      "ecommerce operators monitoring orders, support, and repetitive admin personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-ecommerce-operators-monitoring-orders-support-an",
+    "title": "Super for ecommerce operators monitoring orders, support, and repetitive admin"
+  },
+  "summary": "A conversion\u2011focused niche landing page for ecommerce operators who live inside order dashboards, support queues, refunds, and repetitive back\u2011office work. Positions Super as the sharper alternative: a personal AI agent that actually operates computers and reuses a computer\u2011use cache, making repeated workflows faster, safer, and cheaper over time \u2014 with clear market evidence and fair competitor context."
+}
